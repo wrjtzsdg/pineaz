@@ -1,0 +1,53 @@
+### Privacy Policy
+
+#### Introduction
+
+At Pineapple Games Studio ("We," "us," or "our"), the privacy of our users ("you") is a core component of our values. This Privacy Policy outlines our approach to handling the personal information that you provide or that we collect in connection with the use of our mobile application (the "App"). We invite you to review this Privacy Policy to understand how we are committed to protecting your privacy. Your use of the App signifies your agreement to the terms of this Privacy Policy. We may occasionally update this policy, and we will notify you of any significant changes by posting the revised policy on the App or our website, and through other appropriate communication methods. Your continued use of the App after such modifications confirms your acceptance of the new terms.
+
+#### 1. Information Collection Practices
+
+We collect information in the following ways:
+
+- Non-personal information we collect may encompass details such as your device's hardware model, operating system version, preferred language, unique device identifiers (e.g., IMEI, MAC address), user interaction patterns within the App, and aggregated usage statistics.
+  
+- Personal information we collect may include identifiable details such as your full name, date of birth, gender, contact details, email address, user ID, and other demographic information, as well as data from your Google account if you choose to sign in with Google.
+
+#### 2. Purpose of Information Use
+
+We utilize the collected data for various purposes:
+
+- To deliver and enhance our Services, authenticate user identities, facilitate communications, and provide personalized advertising content.
+  
+- To improve the in-app experience and customize our marketing initiatives to better match your interests.
+  
+- To protect the security and integrity of our systems, preventing unauthorized access, fraud, and other prohibited activities.
+  
+- To comply with our legal and regulatory duties.
+
+#### 3. Information Disclosure
+
+We do not sell, trade, or rent your personal information. We may share data with trusted third-party service providers, business partners, affiliates, and advertisers to support the delivery of our Services. Any data sharing will be conducted with strict adherence to confidentiality obligations and in accordance with applicable privacy laws.
+
+#### 4. Safeguarding Your Information
+
+We implement robust security measures, including physical, administrative, and technical safeguards, as well as encryption protocols where necessary, to protect your information from unauthorized access, disclosure, alteration, or destruction.
+
+#### 5. Retention of Information
+
+We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. After the necessary period, your data will be either permanently deleted or anonymized for statistical analysis and business planning.
+
+#### 6. Rights of Individuals in the EU
+
+For individuals within the European Union (EU), you have additional rights, including the right to request access to and rectification or erasure of your personal data, the right to data portability, and the right to object to data processing. Data transfers outside the EU will be conducted in compliance with EU data protection laws, and by using the App, you consent to such transfers. You may withdraw this consent at any time.
+
+#### 7. Protection of Minors
+
+We do not knowingly collect personal information from children under the age of 13 (or under 16 in the EU). If a parent or guardian discovers that their child has provided us with personal information without their consent, they should contact us immediately. We will take swift action to remove such information from our systems.
+
+#### 8. Access and Control Over Your Information
+
+You have the ability to update or correct your personal information through your App account settings or by reaching out to us directly. You have the right to request limitations on the use and collection of your data, deletion of your data, access to your data, or copies of your data, and to object to our data processing practices or revoke consent. Please contact us to verify your identity, and we will respond as required by law.
+
+#### 9. How to Reach Us
+
+If you have any questions or concerns about your personal data or this Privacy Policy, please contact us at pineapplegamesstudio@gmail.com.
